@@ -74,7 +74,6 @@ The system follows a standard RAG pipeline:
 - **Vector DB** (Chroma / Pinecone / FAISS)
 - **Streamlit / FastAPI** (depending on your implementation)
 
----
 
 ## 📁 Project Structure
 
