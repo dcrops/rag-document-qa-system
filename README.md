@@ -116,7 +116,7 @@ export OPENAI_API_KEY=your_api_key
 
 ### Option 1 — Streamlit UI
 
-```bash
+
 streamlit run app/app.py
 
 ### Option 2 — FastAPI
