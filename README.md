@@ -100,7 +100,7 @@ rag-document-qa-system/
 
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/your-username/rag-document-qa-system.git
 cd rag-document-qa-system
 
